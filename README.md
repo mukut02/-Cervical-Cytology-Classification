@@ -3,6 +3,8 @@
 
 This repository presents a **dual-branch deep learning framework** for cervical cytology classification from Pap smear images. The architecture combines **Convolutional Neural Networks (CNNs)** and **Swin Transformers** to jointly capture **local spatial patterns** and **global contextual representations**, improving robustness for medical image analysis.
 
+Our model acheived 99.26 % test accuracy in SipakMed Dataset, 99.48 % test accuracy in Mendelet LBC
+
 ## Key Features
 
 - **Dual-Branch Architecture**
