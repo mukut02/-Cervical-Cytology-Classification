@@ -1,4 +1,4 @@
-# Cervical Cytology Classification
+# REDSS-Net
 **Entropy-Aware Sugeno–Dempster and Fuzzy Evidence Fusion of Deep Models for Cervical Cytology Classification**
 
 This repository presents a **dual-branch deep learning framework** for cervical cytology classification from Pap smear images. The architecture combines **Convolutional Neural Networks (CNNs)** and **Swin Transformers** to jointly capture **local spatial patterns** and **global contextual representations**, improving robustness for medical image analysis.
